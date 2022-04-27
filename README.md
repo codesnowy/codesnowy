@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Seol-Ri Bak
-- 👀 I’m interested in Cording and making Clothes
+- 👀 I’m interested in IT and making Clothes
 - 🌱 I’m currently learning Java and DB
 - 📫 How to reach me "codewos@gmail.com"
 
